@@ -17,16 +17,16 @@
 
         <ImageView
             android:id="@+id/imageView1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/redbaraat" />
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:src="@drawable/voice" />
 
         <Button
             android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB1"
-            android:text="Red Baraat" />
+            android:text="The voice" />
 
     </LinearLayout>
 
@@ -36,16 +36,16 @@
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/billymcmaughlin" />
+            android:layout_width="108dp"
+            android:layout_height="108dp"
+            android:src="@drawable/shamrock" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB2"
-            android:text="Billy McLaughlin" />
+            android:text="Thistles and Shamrocks" />
 
     </LinearLayout>
 
@@ -55,16 +55,16 @@
 
         <ImageView
             android:id="@+id/imageView3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/battlefieldband" />
+            android:layout_width="108dp"
+            android:layout_height="108dp"
+            android:src="@drawable/civil" />
 
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClickB3"
-            android:text="Battlefield Band" />
+            android:text="Civil Resistance" />
 
     </LinearLayout>
 

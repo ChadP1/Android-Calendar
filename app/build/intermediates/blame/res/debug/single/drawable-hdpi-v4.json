@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/P1/Desktop/calenderNew/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/billymcmaughlin.jpg",
+        "source": "/Users/P1/Desktop/calenderNew/app/src/main/res/drawable-hdpi/billymcmaughlin.jpg"
+    },
+    {
+        "merged": "/Users/P1/Desktop/calenderNew/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/redbaraat.jpg",
+        "source": "/Users/P1/Desktop/calenderNew/app/src/main/res/drawable-hdpi/redbaraat.jpg"
+    },
+    {
+        "merged": "/Users/P1/Desktop/calenderNew/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/battlefieldband.jpg",
+        "source": "/Users/P1/Desktop/calenderNew/app/src/main/res/drawable-hdpi/battlefieldband.jpg"
+    },
+    {
+        "merged": "/Users/P1/Desktop/calenderNew/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/P1/Desktop/calenderNew/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
